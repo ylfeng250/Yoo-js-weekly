@@ -1,0 +1,14 @@
+{
+  "name": "yoo-js-weekly",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.2.3",
+    "vitepress-sidebar": "^1.31.1"
+  }
+}
